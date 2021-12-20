@@ -1,0 +1,20 @@
+/* Reset */
+@import 'tailwindcss/base';
+@import 'reset';
+
+/* Components */
+@import 'tailwindcss/components';
+@import 'buttons';
+@import 'form';
+
+/*Default theme*/
+@import "animate";
+@import "LineIcons.2.0";
+
+@import "mystyle";
+@import "bootstrap-5.0.5-alpha.min";
+
+
+/* Utilities */
+@import 'tailwindcss/utilities';
+
